@@ -22,8 +22,6 @@
 # pre-formatted fixed-width code block written in the Python programming language
 # ```
 
-import enum
-
 
 def convert_link_01(string, start=0 , string_modify="", string_finale=""):
     # markdonw: [inline URL](http://www.example.com/)
