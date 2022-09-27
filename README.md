@@ -10,7 +10,10 @@ then:
 
   from markdown_html import convert_everything
   
-  #execute convert_everything("prova prova __prova__ hello *hi* _sottolineao_ metto anche un link [link](www.fattiicazzitua.com)")
+  #execute 
+  string = convert_everything("prova prova __prova__ hello *hi* _sottolineao_ metto anche un link [link](www.fattiicazzitua.com)")
+  
+  print(string)
 
 
 ```
