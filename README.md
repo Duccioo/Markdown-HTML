@@ -2,8 +2,8 @@
 simple python converter from markdown (using telegram version MARKDOWN V2) to HTML without any use of external libraries!!
 
 
-#Example: 
-imort the library in your file
+# Example: 
+import the library in your file
 then: 
 
 ```python
